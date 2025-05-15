@@ -5,12 +5,21 @@
 
 ### 🧠 What I work on:
 - Building **interactive dashboards** (Plotly Dash, Streamlit)
-- **OCR pipelines**, **NLP**, and **Time series analysis**
-- Backend APIs using **FastAPI**
+- Developing **OCR pipelines**, **NLP**, and **Time Series analysis**
+- Creating backend APIs using **FastAPI**
 - Data cleaning, visualization, and automation
 
-### 📫 Reach me at:
-**shahidashome123@gmail.com**
+### 📫 Reach Me At:
+**📧 Email:** shahidashome123@gmail.com
 
+---
 
+### 🛠️ Languages & Tools I Use
 
+- 🐍 Python (Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV)  
+- 🧪 FastAPI, Flask, SQL  
+- 📊 Plotly, Streamlit, Dash, Power BI  
+- 🌐 HTML, CSS, JavaScript (Basics)  
+- 🔧 Git (version control), GitHub & Bitbucket (repository hosting), Jupyter, VS Code
+
+---
