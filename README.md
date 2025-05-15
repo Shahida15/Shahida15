@@ -1,4 +1,4 @@
-# 👋 Hello, I'm @Shahida15
+# 👋 Hi, I'm @Shahida15
 
 💻 I’m passionate about **Data Science**, **AI/ML**, and **Software Engineering**.  
 📚 Currently learning **Web Development** to build smarter, full-stack solutions.
@@ -10,7 +10,8 @@
 - Data cleaning, visualization, and automation
 
 ### 📫 Reach Me At:
-**📧 Email:** shahidashome123@gmail.com
+**📧 Email:** shahidashome123@gmail.com  
+**🔗 LinkedIn:** [linkedin.com/in/shahida](https://www.linkedin.com/in/shahida)
 
 ---
 
