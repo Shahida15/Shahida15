@@ -1,19 +1,16 @@
-## Hi there 👋
+# 👋 Hello, I'm @Shahida15
 
-<!--
-**Shahida15/Shahida15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about **Data Science**, **AI/ML**, and **Software Engineering**.  
+Currently learning **Web Development** to build smarter, full-stack solutions.
 
-Here are some ideas to get you started:
-
-- 👋 I’m @Shahida
-- 🌱 I’m currently learning Web Development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about  Building **interactive dashboards**
+### 🧠 What I work on:
+- Building **interactive dashboards** (Plotly Dash, Streamlit)
 - **OCR pipelines**, **NLP**, and **time series analysis**
-- Backend APIs with **FastAPI**
+- Backend APIs using **FastAPI**
 - Data cleaning, visualization, and automation
-- 📫 How to reach me: shahidashome123@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📫 Reach me at:
+**shahidashome123@gmail.com**
+
+
+
