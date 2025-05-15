@@ -12,7 +12,7 @@
 
 ## 📫 Reach Me At:
 **📧 Email:** shahidashome123@gmail.com  
-**🔗 LinkedIn:** [linkedin.com/in/shahida](https://www.linkedin.com/in/shahida)
+**🔗 LinkedIn:** [linkedin.com/in/shahida](https://www.linkedin.com/in/shahida-shome-150195250)
 
 ---
 
